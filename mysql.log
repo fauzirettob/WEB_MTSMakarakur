@@ -1,0 +1,2 @@
+mysqld: Can't open shared library 'E:\laragon\bin\mysql\mysql-8.4.3-winx64\lib\plugin\component_reference_cache.dll' (errno: 126 The specified module could not be found.)
+mysqld: Cannot load component from specified URN: 'file://component_reference_cache'.

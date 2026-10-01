@@ -1,0 +1,25 @@
+[Thu Oct  1 02:21:30 2026] PHP 8.3.33 Development Server (http://127.0.0.1:8010) started
+[Thu Oct  1 02:21:32 2026] 127.0.0.1:57535 Accepted
+[Thu Oct  1 02:21:32 2026] 127.0.0.1:57535 [200]: GET /api/fotos
+[Thu Oct  1 02:21:32 2026] 127.0.0.1:57535 Closing
+[Thu Oct  1 02:21:32 2026] 127.0.0.1:57537 Accepted
+[Thu Oct  1 02:21:33 2026] 127.0.0.1:57537 [200]: GET /admin/login
+[Thu Oct  1 02:21:33 2026] 127.0.0.1:57537 Closing
+[Thu Oct  1 02:23:24 2026] 127.0.0.1:57557 Accepted
+[Thu Oct  1 02:23:24 2026] 127.0.0.1:57557 [200]: GET /api/fotos
+[Thu Oct  1 02:23:24 2026] 127.0.0.1:57557 Closing
+[Thu Oct  1 02:23:24 2026] 127.0.0.1:57559 Accepted
+[Thu Oct  1 02:23:25 2026] 127.0.0.1:57559 [200]: GET /admin/login
+[Thu Oct  1 02:23:25 2026] 127.0.0.1:57559 Closing
+[Thu Oct  1 02:25:05 2026] 127.0.0.1:57603 Accepted
+[Thu Oct  1 02:25:06 2026] 127.0.0.1:57603 [404]: GET /
+[Thu Oct  1 02:25:06 2026] 127.0.0.1:57603 Closing
+[Thu Oct  1 02:26:02 2026] 127.0.0.1:57624 Accepted
+[Thu Oct  1 02:26:02 2026] 127.0.0.1:57624 [404]: GET /index.php
+[Thu Oct  1 02:26:02 2026] 127.0.0.1:57624 Closing
+[Thu Oct  1 02:26:02 2026] 127.0.0.1:57626 Accepted
+[Thu Oct  1 02:26:02 2026] 127.0.0.1:57626 [200]: GET /index.php/api/fotos
+[Thu Oct  1 02:26:02 2026] 127.0.0.1:57626 Closing
+[Thu Oct  1 02:26:03 2026] 127.0.0.1:57630 Accepted
+[Thu Oct  1 02:26:03 2026] 127.0.0.1:57630 [200]: GET /index.php/admin/login
+[Thu Oct  1 02:26:03 2026] 127.0.0.1:57630 Closing
